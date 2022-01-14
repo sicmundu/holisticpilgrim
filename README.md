@@ -43,7 +43,7 @@ First puzzles/puzzles:
 
 
 
-##Additionally, ideas.
+## Additionally, ideas.
 - "Diary" of players - any player will be able to make an entry in the blockchain in the form of a diary (most likely with pre-moderation)
 
 
