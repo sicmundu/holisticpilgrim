@@ -2,7 +2,7 @@
 
 ## Concept.
 
-The world in NEAR Lands with its own history (Middle Ages, but the world is not quite our world). The history of the world will develop depending on the actions of the players. As planned, the world will also change its appearance from the events / decisions of the players. Displaying history on the Holistic Pilgrim website.
+The world in (NEAR Lands)[https://twitter.com/NearLands] with its own history (Middle Ages, but the world is not quite our world). The history of the world will develop depending on the actions of the players. As planned, the world will also change its appearance from the events / decisions of the players. Displaying history on the Holistic Pilgrim website.
 
 Main events: 
 1. Puzzles/puzzles; 
