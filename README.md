@@ -4,7 +4,7 @@
 
 The world [NEAR Holistic](https://twitter.com/NEARHolystic) in [NEAR Lands](https://twitter.com/NearLands) with its own history (Middle Ages, but the world is not quite our world). The history of the world will develop depending on the actions of the players. As planned, the world will also change its appearance from the events / decisions of the players. Displaying history on the Holistic Pilgrim website.
 
-And also at any tim  players can spend time in this world - listen to music in the park, hold meetings, visit the NFT gallery etc.
+And also at any time players can spend time in this world - listen to music in the park, hold meetings, visit the NFT gallery etc.
 
 Main events: 
 1. Puzzles/puzzles; 
