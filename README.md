@@ -48,5 +48,5 @@ First puzzles/puzzles:
 
 
 
-##What is all this for?
+## What is all this for?
 One of the initial goals is to build hype around the NEAR ecosystem and increase interest in the Metaverse and p2e on NEAR.
