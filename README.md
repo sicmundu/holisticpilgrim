@@ -1,4 +1,5 @@
 # Holistic Pilgrim
+<img width="585" alt="logo (14)" src="https://user-images.githubusercontent.com/21222764/149715175-c4145273-5d9c-427a-85ec-c654960b1ca9.png">
 
 Twitter: [NEAR Holistic](https://twitter.com/NEARHolystic)
 
