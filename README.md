@@ -1,6 +1,7 @@
 # Holistic Pilgrim
 
 Twitter: [NEAR Holistic](https://twitter.com/NEARHolystic)
+
 DAO: [Holistic Pilgrim DAO](https://app.astrodao.com/dao/holistic-pilgrim.sputnik-dao.near)
 
 ## Concept.
